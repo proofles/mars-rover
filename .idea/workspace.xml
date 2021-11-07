@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145f64bb-5d2d-4534-84a4-2b94dc55d230" name="Default Changelist" comment="" />
+    <list default="true" id="145f64bb-5d2d-4534-84a4-2b94dc55d230" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/mars-rover.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Coordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Direction$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Direction$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Direction$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Direction$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/InputUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Instruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Moveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Plateau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Rover$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Rover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/exception/InvalidCoordinateInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/exception/InvalidDirectionInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/exception/InvalidPlateauInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/exception/InvalidRoverInformationInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/exception/RoverOutOfBoundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/CoordinateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/DirectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/InputUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/InstructionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/MarsRoverTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/PlateauTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/RoverTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,7 +86,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="436">
-                <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+                <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/company/MarsRoverTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,6 +125,9 @@
       <find>InvalidRoverInformationInputException</find>
       <find>char</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,6 +190,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,6 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -313,7 +348,7 @@
       <updated>1636285631464</updated>
       <workItem from="1636285632743" duration="7610000" />
       <workItem from="1636296026773" duration="7801000" />
-      <workItem from="1636307860370" duration="6973000" />
+      <workItem from="1636307860370" duration="8144000" />
     </task>
     <servers />
   </component>
@@ -350,11 +385,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22384000" />
+    <option name="totallyTimeSpent" value="23555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -647,7 +681,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/company/MarsRoverTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -657,7 +691,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -668,7 +702,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="436">
-            <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
